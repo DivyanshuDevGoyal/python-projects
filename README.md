@@ -2,3 +2,6 @@ I have created a simple project on Theate Billing Management as per customers ch
 
 
 This is a project on Library Managemengt System where user can come and see number of books available, user can borrow multiple books and can also return the books. 
+
+
+A data-set of Dairy Goods comprising 4325 rows × 23 columns have been solved and insights are drawn on the basis of questions asked.
